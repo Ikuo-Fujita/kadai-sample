@@ -8,42 +8,42 @@
         {
             "name": "サンプル1ーかっこいい名札を作ろう",
             "description": "LEDにじぶんの名前をうつしてみよう！",
-            "url": "github:Ikuo-Fujita/sample1-nametag"
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/sample1-nametag/master/pxt.json"
         },
         {
             "name": "サンプル2ー明るさをはかろう",
             "description": "まわりの明るさを数字で表示するよ",
-            "url": "github:Ikuo-Fujita/sample2-light"
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/sample2-light/master/pxt.json"
         },
         {
             "name": "サンプル3ー暗くなったらお化けがでる",
             "description": "部屋が暗くなると…画面にお化けが！？",
-            "url": "github:Ikuo-Fujita/sample3-ghost"
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/sample3-ghost/master/pxt.json"
         },
         {
             "name": "サンプル4ーテルミン風の楽器を作ろう",
             "description": "手をかざすと音が変わるふしぎな楽器だよ",
-            "url": "github:Ikuo-Fujita/sample4-theremin"
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/sample4-theremin/master/pxt.json"
         },
         {
             "name": "サンプル5ー動きに合わせて音を鳴らそう",
             "description": "本体をふったり動かしたりして音を出そう！",
-            "url": "github:Ikuo-Fujita/sample5-sound"
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/sample5-sound/master/pxt.json"
         },
         {
             "name": "サンプル6ー傾きを表示してみよう",
             "description": "どっちに傾いているか画面でたしかめよう",
-            "url": "github:Ikuo-Fujita/sample6-tilt"
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/sample6-tilt/master/pxt.json"
         },
         {
             "name": "サンプル7ー計算するSF的コンピューターの音",
             "description": "ピコピコピポパ…未来のパソコンみたいな音だよ",
-            "url": "github:Ikuo-Fujita/sample7-sfcomp"
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/sample7-sfcomp/master/pxt.json"
         },
         {
             "name": "サンプル8ーハートのキャッチボール",
             "description": "無線（むせん）を使ってハートをパスしよう！",
-            "url": "github:Ikuo-Fujita/sample8-radio"
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/sample8-radio/master/pxt.json"
         }
     ]
 }
