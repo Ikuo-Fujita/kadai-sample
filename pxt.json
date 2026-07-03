@@ -1,5 +1,5 @@
 {
-    "name": "課題サンプル",
+    "name": "kadai-sample",
     "dependencies": {
         "core": "*"
     },
@@ -7,8 +7,43 @@
     "gallery": [
         {
             "name": "サンプル1ーかっこいい名札を作ろう",
-            "description": "テスト表示です",
-            "url": "https://github.com/Ikuo-Fujita/kadai-sample/blob/main/サンプル1ーかっこいい名札を作ろう.hex"
+            "description": "LEDにじぶんの名前をうつしてみよう！",
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/kadai-sample/main/サンプル1ーかっこいい名札を作ろう.hex"
+        },
+        {
+            "name": "サンプル2ー明るさをはかろう",
+            "description": "まわりの明るさを数字で表示するよ",
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/kadai-sample/main/サンプル2ー明るさをはかろう.hex"
+        },
+        {
+            "name": "サンプル3ー暗くなったらお化けがでる",
+            "description": "部屋が暗くなると…画面にお化けが！？",
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/kadai-sample/main/サンプル3ー暗くなったらお化けがでる.hex"
+        },
+        {
+            "name": "サンプル4ーテルミン風の楽器を作ろう",
+            "description": "手をかざすと音が変わるふしぎな楽器だよ",
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/kadai-sample/main/サンプル4ーテルミン風の楽器を作ろう.hex"
+        },
+        {
+            "name": "サンプル5ー動きに合わせて音を鳴らそう",
+            "description": "本体をふったり動かしたりして音を出そう！",
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/kadai-sample/main/サンプル5ー動きに合わせて音を鳴らそう.hex"
+        },
+        {
+            "name": "サンプル6ー傾きを表示してみよう",
+            "description": "どっちに傾いているか画面でたしかめよう",
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/kadai-sample/main/サンプル6ー傾きを表示してみよう.hex"
+        },
+        {
+            "name": "サンプル7ー計算するSF的コンピューターの音",
+            "description": "ピコピコピポパ…未来のパソコンみたいな音だよ",
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/kadai-sample/main/サンプル7ー計算するSF的コンピューターの音.hex"
+        },
+        {
+            "name": "サンプル8ーハートのキャッチボール",
+            "description": "無線（むせん）を使ってハートをパスしよう！",
+            "url": "https://raw.githubusercontent.com/Ikuo-Fujita/kadai-sample/main/サンプル8ーハートのキャッチボール.hex"
         }
     ]
 }
