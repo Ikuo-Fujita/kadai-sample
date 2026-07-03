@@ -18,7 +18,7 @@
         {
             "name": "サンプル3ー暗くなったらお化けがでる",
             "description": "部屋が暗くなると…画面にお化けが！？",
-            "url": "https://github.com/Ikuo-Fujita/sample3-ghost"
+            "url": "github:Ikuo-Fujita/sample3-ghost"
         },
         {
             "name": "サンプル4ーテルミン風の楽器を作ろう",
